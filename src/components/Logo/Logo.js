@@ -15,12 +15,12 @@ const Link = styled.a`
   text-decoration: none;
   color: inherit;
 
-  position: absolute;
+  /* position: absolute;
   top: 0;
   bottom: 0;
   left: 32px;
   margin: auto;
-  height: 28px;
+  height: 28px; */
 `;
 
 const Wrapper = styled.h1`
